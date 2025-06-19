@@ -11,13 +11,6 @@ Certifier Dapp is a web application built on the Ethereum blockchain that allows
 - Verify Issued Certificates
 - Track Change history of Issued Certificates
 
-
-## Authors
-
-- [@aachal01](https://www.github.com/aachal01)
-- [@jhasuraj01](https://www.github.com/jhasuraj01)
-
-
 ## Tech Stack
 
 #### Web3
